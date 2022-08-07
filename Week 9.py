@@ -1,7 +1,5 @@
 import os
 
-print(os)
-
 def main():
 
   directory = input("Please enter a directory where you would like to save your file : ")
